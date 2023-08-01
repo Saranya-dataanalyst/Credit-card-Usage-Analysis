@@ -8,6 +8,8 @@ Let us connect
 
 Go to LinkedIn
 
+www.linkedin.com/in/saranya-data-analyst
+
 Go to my dashboard
 
 https://public.tableau.com/views/CreditCardTrends_16897751221470/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
